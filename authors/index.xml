@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Charlie Hines is a senior at James Madison University in Harrisonburg, Virginia. In addition to his major in Computer Science, Charlie is earning a minor in Math. As a part of the Honors College at James Madison University, Charlie is currently undertaking a research project in which he is working on bringing the &lt;a href=&#34;https://github.com/JMU-CS/less-java&#34; target=&#34;_blank&#34;&gt;Less-Java&lt;/a&gt; compiler closer to a finished state.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
